@@ -1,0 +1,14 @@
+/* h1,
+h2 {
+  margin: 0;
+  padding: 0;
+} */
+* {
+  font-family: "Colfax-Medium, helvetica, sans-serif";
+}
+
+body {
+  background-color: rgb(251, 251, 252);
+  margin: 0;
+  padding: 0;
+}
